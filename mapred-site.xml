@@ -23,12 +23,12 @@
     </property>
     <property>
         <name>mapred.system.dir</name>
-        <value>file:/home/rafael/hadoop/workspace/mapred/system</value>
+        <value>file:/home/ubuntu/hadoop/workspace/mapred/system</value>
         <final>true</final>
     </property>
     <property>
         <name>mapred.local.dir</name>
-        <value>file:/home/rafael/hadoop/workspace/mapred/local</value>
+        <value>file:/home/ubuntu/hadoop/workspace/mapred/local</value>
         <final>true</final>
     </property>
     <property>

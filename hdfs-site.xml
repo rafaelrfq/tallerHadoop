@@ -27,10 +27,10 @@
     </property>
     <property>
         <name>dfs.namenode.name.dir</name>
-        <value>file:/home/rafael/hadoop/workspace/dfs/name</value>
+        <value>file:/home/ubuntu/hadoop/workspace/dfs/name</value>
     </property>
     <property>
         <name>dfs.datanode.data.dir</name>
-        <value>file:/home/rafael/hadoop/workspace/dfs/data</value>
+        <value>file:/home/ubuntu/hadoop/workspace/dfs/data</value>
     </property>
 </configuration>
